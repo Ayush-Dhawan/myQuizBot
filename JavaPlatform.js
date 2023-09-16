@@ -175,7 +175,7 @@ const DataSet = [
       index: 25,
       question: "What is the purpose of the JVM in Java development?",
       answer: "To execute Java applications",
-      options: ["To develop Java applications", "To optimize Java bytecode", "To write Java documentation", "To test Java applications"],
+      options: ["To develop Java applications", "To execute Java applications", "To write Java documentation", "To test Java applications"],
       explanation: "The JVM (Java Virtual Machine) is responsible for executing Java applications by interpreting or compiling Java bytecode."
     },
     {
@@ -231,7 +231,7 @@ const DataSet = [
         index: 33,
         question: "What does AWT stand for in the context of Java?",
         answer: "Abstract Window Toolkit",
-        options: ["Advanced Window Technology", "Application Window Toolkit", "Abstract Window Toolkit", "Active Window Toolset"],
+        options: ["Advanced Window Technology", "Application Window Toolkit", "Abstract Window Toolkit", "active-tab Window Toolset"],
         explanation: "AWT stands for Abstract Window Toolkit, a graphical user interface (GUI) library in Java."
       },
       {
